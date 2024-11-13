@@ -1,0 +1,9 @@
+Good practices:
+-Immediately present customers the opportunity to register
+-Make it clear to customers why they should register
+-Don't make the page too busy or confusing
+-Make the process as simple as possible
+
+Bad practices:
+-Overwhelm the customer with a page that is too busy
+-Interrupt the customer with a popup
